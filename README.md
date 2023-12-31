@@ -13,7 +13,7 @@
 
 ---
 
-### JavaScript Developer - Muhammed Aslam Shah
+### JavaScript Developer - Muhammed Aslam Shah S
 
 <img src="https://avatars.githubusercontent.com/u/119589957?v=4" alt="Developer Name" width="150" style="border: 3px solid #ff0000; border-radius: 50%;">
 
