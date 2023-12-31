@@ -12,8 +12,6 @@
 
 ---
 
-## Add More Developers
-
 ### Developer - Name
 
 <img src="image_link_here" alt="Developer Name" width="150" style="border: 3px solid #ff0000; border-radius: 50%;">
