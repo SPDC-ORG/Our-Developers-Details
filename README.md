@@ -2,7 +2,7 @@
 
 ## React Developer - Abdulahad
 
-![Abdulahad](https://github.com/SPDC-ORG/Developer-Details/blob/main/IMG_1579.png)
+<img src="https://github.com/SPDC-ORG/Developer-Details/blob/main/IMG_1579.png" alt="Abdulahad" width="150" style="border-radius: 50%;">
 
 - **Skill:** React Developer 
 - **Name:** Abdulahad
@@ -16,7 +16,7 @@
 
 ### Developer - Name
 
-![Developer Name](image_link_here)
+<img src="image_link_here" alt="Developer Name" width="150" style="border-radius: 50%;">
 
 - **Skill:** Developer's Skill 
 - **Name:** Developer's Name
