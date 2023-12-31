@@ -6,8 +6,6 @@
 
 - **Skill:** React Developer 
 - **Name:** Abdulahad S
-- **Age:** 17
-- **Place:** Kollam
 - **Phone:** 9746739263
 - **Linkdin Profile:** https://www.linkedin.com/in/abdulahad-s-b194bb283/
 
