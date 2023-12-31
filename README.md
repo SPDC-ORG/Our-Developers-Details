@@ -6,7 +6,6 @@
 
 - **Skill:** React Developer 
 - **Name:** Abdulahad S
-- **Phone:** 9746739263
 - **Linkdin Profile:** https://www.linkedin.com/in/abdulahad-s-b194bb283/
 
 ---
@@ -17,9 +16,6 @@
 
 - **Skill:** JavaScript Developer 
 - **Name:** Muhammed Aslam Shah S
-- **Age:** 22
-- **Place:** Kollam
-- **Phone:** 9746739263
 - **Linkdin Profile:** https://www.linkedin.com/in/muhammed-aslam-shah-s-365478271/
 
 
