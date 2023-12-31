@@ -1,25 +1,25 @@
 # Developer Details
 
-## React Developer - Abdulahad
+## React Developer - Abdulahad S
 
 <img src="https://github.com/SPDC-ORG/Developer-Details/blob/main/IMG_1579.png" alt="Abdulahad" width="150" style="border: 3px solid #ff0000; border-radius: 50%;">
 
 - **Skill:** React Developer 
-- **Name:** Abdulahad
+- **Name:** Abdulahad S
 - **Age:** 17
 - **Place:** Kollam
 - **Phone:** 9746739263
 
 ---
 
-### Developer - Name
+### JavaScript Developer - Muhammed Aslam Shah
 
-<img src="image_link_here" alt="Developer Name" width="150" style="border: 3px solid #ff0000; border-radius: 50%;">
+<img src="https://avatars.githubusercontent.com/u/119589957?v=4" alt="Developer Name" width="150" style="border: 3px solid #ff0000; border-radius: 50%;">
 
-- **Skill:** Developer's Skill 
-- **Name:** Developer's Name
-- **Age:** Developer's Age
-- **Place:** Developer's Location
-- **Phone:** Developer's Phone Number
+- **Skill:** JavaScript Developer 
+- **Name:** Muhammed Aslam Shah S
+- **Age:** 22
+- **Place:** Kollam
+- **Phone:** 9746739263
 
 
