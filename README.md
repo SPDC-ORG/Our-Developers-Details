@@ -9,6 +9,7 @@
 - **Age:** 17
 - **Place:** Kollam
 - **Phone:** 9746739263
+- **Linkdin Profile:** https://www.linkedin.com/in/abdulahad-s-b194bb283/
 
 ---
 
@@ -21,5 +22,6 @@
 - **Age:** 22
 - **Place:** Kollam
 - **Phone:** 9746739263
+- **Linkdin Profile:** https://www.linkedin.com/in/abdulahad-s-b194bb283/
 
 
