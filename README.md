@@ -7,7 +7,7 @@
 - **Skill:** React Developer 
 - **Name:** Abdulahad S
 - **Linkdin Profile:** https://www.linkedin.com/in/abdulahad-s-b194bb283/
-
+- **GitHub Profile:**  https://github.com/AHADBAVA
 ---
 
 ### JavaScript Developer - Muhammed Aslam Shah S
@@ -17,5 +17,6 @@
 - **Skill:** JavaScript Developer 
 - **Name:** Muhammed Aslam Shah S
 - **Linkdin Profile:** https://www.linkedin.com/in/muhammed-aslam-shah-s-365478271/
+- **GitHub Profile:**  https://github.com/muhammedaslamshah
 
 
