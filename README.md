@@ -23,7 +23,7 @@
 
 ### JavaScript Developer - Muhammed Aslam Shah S
 
-<img src="https://avatars.githubusercontent.com/u/119589957?v=4](https://github.com/SPDC-ORG/Our-Developers-Details/blob/main/photo_2023-12-31_13-38-40.jpg" alt="Developer Name" width="150" style="border: 3px solid #ff0000; border-radius: 50%;">
+<img src="https://github.com/SPDC-ORG/Our-Developers-Details/blob/main/photo_2023-12-31_13-38-40.jpg" alt="Developer Name" width="150" style="border: 3px solid #ff0000; border-radius: 50%;">
 
 - **Skill:** JavaScript Developer 
 - **Name:** Muhammed Aslam Shah S
